@@ -1,0 +1,22 @@
+.btn-custom {
+    background-color: #004085;
+    color: white;
+}
+.btn-custom:hover {
+    background-color: #003366;
+    color: white;
+}
+.btn-container {
+    text-align: right;
+}
+
+#contract_num{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+#dropdown{
+    margin: .5rem !important;
+    width: 90%;
+}
